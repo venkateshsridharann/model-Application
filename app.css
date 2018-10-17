@@ -1,0 +1,40 @@
+
+.menu{
+  background-color :#be4f0c !important; 
+  color: white !important;
+  font: #fff !important;
+}
+.item{
+ color: white !important; 
+ /*background-color :#be4f0c !important;*/
+}
+body{
+  color: white !important;
+  background-color:  #231F20;
+}
+#test{
+  color: white !important;
+}
+
+h1{
+	padding :30px 30px;
+	text-align: center;
+}
+.item{
+	padding-left: 150px !important;
+	text-align: center !important;
+	vertical-align: center;
+}
+
+.ui .icon .input{
+	padding-right: 150px !important;
+}
+
+label{
+	color: white !important;
+}
+
+
+.form{
+padding-left: 31% ;
+}
